@@ -1,4 +1,4 @@
-###### What's the Weather Like?
+# What's the Weather Like?
 --------------------------------------
 
 
@@ -10,7 +10,7 @@ But, if pressed, how would you prove it?
 
 ![Equatorial Cities](/images/equatorsign.png)
 
-#### Weather
+## Weather
 ----------------------------------------
 
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
